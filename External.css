@@ -19,13 +19,12 @@ img {
     color:white;
     padding: .5rem;
 	background:#a0958b;
-    background-image:url();
 	background-repeat: no-repeat;
 	background-position:center ;
 	background-size: 5%
 }
 
-.body {
+body {
   background-image: url(grass.jpg);
   background-repeat: no-repeat;
   height: 100%;
