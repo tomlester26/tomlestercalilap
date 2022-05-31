@@ -25,10 +25,11 @@ img {
 	background-size: 5%
 }
 
-body {
+.body {
   background-image: url(grass.jpg);
   background-repeat: no-repeat;
   height: 100%;
+  width: 100%;
   background-position: center;
   background-size: cover;
 }
